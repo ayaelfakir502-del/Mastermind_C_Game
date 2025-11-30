@@ -1,7 +1,7 @@
 
 #include <stdlib.h>
 #include <time.h>
-#include "game.http.c"
+#include "game.h"
 
 // Generates a random 4-digit secret code.
 void generate_secret_code(int code[]) {

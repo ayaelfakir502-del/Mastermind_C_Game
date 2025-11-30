@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
-#include "game.http.c"
+#include "game.h"
 
 // Helper function to remove the newline character left by fgets.
 void remove_newline(char *s) {

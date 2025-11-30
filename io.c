@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "game.http.c"
+#include "game.h"
 
 // Clears the console screen (Windows/Linux/macOS compatible).
 void clear_screen() {
